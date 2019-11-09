@@ -1,0 +1,2 @@
+This file is to test the push and merge directly 
+from the master branch
